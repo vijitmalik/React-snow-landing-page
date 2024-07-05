@@ -1,0 +1,23 @@
+.important-section header{
+    margin: 20px;
+  }
+  
+  .important-items{
+    margin:20px;
+    display:flex;
+    gap: 20px;
+  }
+  .important-items .item{
+    height:60px;
+    padding:10px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 4px rgb(192, 189, 189);
+  }
+  
+  .important-items .number{
+    font-size:x-large;
+  }
+
+  h4{
+    margin: 0px;    
+  }

@@ -1,0 +1,51 @@
+{
+    "myActiveCases": {
+      "title": "My Active Cases",
+      "type": "personal",
+      "cases": [
+        {
+          "number": "Case001",
+          "shortDescription": "Issue with login",
+          "account": "Acme Corp",
+          "priority": "High",
+          "state": "Open",
+          "actionStatus": "In Progress",
+          "updatedDate": "2024-07-05"
+        },
+        {
+            "number": "Case002",
+            "shortDescription": "Issue with login",
+            "account": "Acme Corp",
+            "priority": "High",
+            "state": "Open",
+            "actionStatus": "In Progress",
+            "updatedDate": "2024-07-05"
+          }
+      ]
+    },
+    "myTeamsCases": {
+      "title": "My Team's Cases",
+      "type": "team",
+      "cases": [
+        {
+          "number": "Case003",
+          "shortDescription": "Network outage",
+          "account": "Tech Solutions",
+          "priority": "Medium",
+          "state": "Pending",
+          "assignedTo": "John Doe",
+          "updatedDate": "2024-07-04"
+        },
+        {
+            "number": "Case004",
+            "shortDescription": "Network outage",
+            "account": "Tech Solutions",
+            "priority": "Medium",
+            "state": "Pending",
+            "assignedTo": "John Doe",
+            "updatedDate": "2024-07-04"
+          }
+      ]
+    }
+  }
+  

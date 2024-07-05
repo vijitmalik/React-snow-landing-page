@@ -1,0 +1,29 @@
+.cases-table {
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 4px rgb(192, 189, 189);
+    padding: 5px;
+    background-color: white;
+}
+
+.cases-table header{
+    padding: 10px 0 10px 0;
+}
+
+.cases-table table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.cases-table th,
+.cases-table td {
+    border: 1px solid #f8f8f8;
+    border-radius: 10px;
+    padding: 2px;
+    text-align: left;
+}
+
+tbody .number, tbody .account, tbody .status{
+    color:blue;
+}
+
